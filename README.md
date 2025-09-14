@@ -35,7 +35,8 @@ oublie pas de mettre ta photo la bg
 ## 🛠️ Technologies utilisées
 
 - **C (C99)** – langage du programme  
-- **stdlib.h / time.h / unistd.h** – génération de nombres aléatoires et temporisation  
+- **stdlib.h / time.h / unistd.h** – génération de nombres aléatoires et temporisation
+- **Utilisation IDE CLion
 
 ---
 
